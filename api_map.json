@@ -1,11 +1,38 @@
 {
+  "1": {
+    "proxy": "hethan",
+    "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
+  },
+  "1772007": {
+    "proxy": "77.70.74.151:49655:e5L5WC:7777",
+    "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
+  },
   "6Rqyl5zsa84z3oiMDx7xcb0fSxyHzeH1": {
     "proxy": "proxyeagle.duckdns.org:49713:Jy0Q1v:yiXueEoi",
     "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
   },
-  "1": {
-    "proxy": "77.70.74.151:49655:e5L5WC:7777",
+  "prxserver62025.onthewifi.com:4504:user1:6sodm": {
+    "proxy": "proxysachkhonglenkmladomngu.duckdns.org:5077:user1:6sodm",
+    "rotate": "https://cool-feather-b380.dblgamingg.workers.dev/?apikey="
+  },
+  "DQAeV9sAcPm9Hi7Km3dSqXRR0Yw6ddQf": {
+    "proxy": "proxyeagle.duckdns.org:49631:Jy0Q1v:yiXueEoi",
+    "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
+  },
+  "6FxhmiE5BJLdSJCYFpotOf4Q3RO1u2LX": {
+    "proxy": "proxyeagle.duckdns.org:49612:FVITxi:jQDRDiuk",
+    "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
+  },
+  "FY7XKZaOHE0KYKrDJQDfo2jXvSzVZuoU": {
+    "proxy": "proxyeagle.duckdns.org:49238:5rpkZX:tWlnnU93",
+    "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
+  },
+  "WIZk8O1yY6CqBqkFeMUq6BOAVRwyvN75": {
+    "proxy": "proxyeagle.duckdns.org:49004:NavRcF:5TMvabOT",
+    "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
+  },
+  "NPguUItOEENVO4qEeyDhMQHzuWgOMlOf": {
+    "proxy": "proxyeagle.duckdns.org:49885:Jy0Q1v:yiXueEoi",
     "rotate": "https://rapid-rice-50e3.dblgamingg.workers.dev/?apikey="
   }
 }
-
